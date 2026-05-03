@@ -44,6 +44,7 @@
 ## 最初に読むドキュメント
 
 - [docs/10_getting-started/opening-checklist.md](docs/10_getting-started/opening-checklist.md)
+- [docs/10_getting-started/sole-proprietor-starter-guide-2026.md](docs/10_getting-started/sole-proprietor-starter-guide-2026.md)
 - [docs/20_admin/invoice-and-payment-flow.md](docs/20_admin/invoice-and-payment-flow.md)
 - [docs/20_admin/expense-tracking.md](docs/20_admin/expense-tracking.md)
 - [docs/30_tax/final-tax-return-overview.md](docs/30_tax/final-tax-return-overview.md)

@@ -70,6 +70,7 @@
 ## 関連ドキュメント
 
 - [opening-checklist.md](opening-checklist.md)
+- [sole-proprietor-starter-guide-2026.md](sole-proprietor-starter-guide-2026.md)
 - [../20_admin/monthly-closing-format.md](../20_admin/monthly-closing-format.md)
 - [../20_admin/invoice-and-payment-flow.md](../20_admin/invoice-and-payment-flow.md)
 - [../30_tax/bookkeeping-basics.md](../30_tax/bookkeeping-basics.md)

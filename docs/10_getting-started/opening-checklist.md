@@ -59,6 +59,7 @@
 
 ## 最初に参照するとよい関連ドキュメント
 
+- [sole-proprietor-starter-guide-2026.md](sole-proprietor-starter-guide-2026.md)
 - [first-month-tasks.md](first-month-tasks.md)
 - [../20_admin/contract-checkpoints.md](../20_admin/contract-checkpoints.md)
 - [../20_admin/invoice-and-payment-flow.md](../20_admin/invoice-and-payment-flow.md)
