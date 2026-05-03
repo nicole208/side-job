@@ -74,4 +74,5 @@
 
 - [bookkeeping-basics.md](bookkeeping-basics.md)
 - [final-tax-return-overview.md](final-tax-return-overview.md)
+- [small-depreciable-assets-special-rule-2026.md](small-depreciable-assets-special-rule-2026.md)
 - [../20_admin/expense-tracking.md](../20_admin/expense-tracking.md)

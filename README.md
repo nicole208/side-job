@@ -57,6 +57,7 @@
 - [docs/30_tax/bookkeeping-basics.md](docs/30_tax/bookkeeping-basics.md)
 - [docs/30_tax/blue-return-vs-white-return.md](docs/30_tax/blue-return-vs-white-return.md)
 - [docs/30_tax/deductible-expenses.md](docs/30_tax/deductible-expenses.md)
+- [docs/30_tax/small-depreciable-assets-special-rule-2026.md](docs/30_tax/small-depreciable-assets-special-rule-2026.md)
 
 ## 再利用用テンプレート
 
